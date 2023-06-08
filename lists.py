@@ -9,4 +9,5 @@ print(states_of_america[-2])
 states_of_america.append("Moiseland")
 states_of_america[3] = "Italy"
 states_of_america.remove("Italy")
+states_of_america.count("Massachusetts")
 print(states_of_america)
